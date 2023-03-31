@@ -1,7 +1,7 @@
 Name: plasma-theme-Windows7
 Summary: Plasma theme resembling Windows 7
 Version: 0.9.4.8
-Release: 1
+Release: 2
 #Url: https://store.kde.org/p/1305103
 #Source0: https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1Nzc3NjYxOTMiLCJ1IjpudWxsLCJsdCI6ImRvd25sb2FkIiwicyI6ImI0YzU4NjExYzcxMjQ2YTZhYjZlMTA4MzA2ZmVhZmI5ZjU0ODFlZWMwMTVkMWUwNTMyM2VhYmIxOTFkYzFmOTBhNzI0M2JjZmM0YWNhZDViMTEzNjk2YzA3OWE3OWU5MDE0Nzk2MjBkYjQxODVlZjVkMzMwYTFjMDM4YmVjYzVmIiwidCI6MTU3OTM4ODI3NSwic3RmcCI6ImMwMzNkZTY2MjM5M2E3NWZjNWM2MmY1MDliZjE3OTY1Iiwic3RpcCI6IjQ2LjkyLjE4MC41MCJ9.emr8U0-52nLB-ZH2dYB_rEDvSWbUjYxncXMtKMcz1ZM/Diamond7_16.tar.gz
 Url: https://www.pling.com/p/1002615
